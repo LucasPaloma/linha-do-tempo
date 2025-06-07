@@ -30,137 +30,137 @@ export default function LinhaDoTempo({ onBgChange }) {
       titulo: 'Nosso Começo',
       descricao:
         'O Ano que tudo mudou. Nosso primeiro beijo, nossos olhares se cruzando com aquele frio na barriga...',
-      imagem: '/img.png',
-      bg: 'img.png',
+      imagem: '/linha-do-tempo/img.png',
+      bg: '/linha-do-tempo/img.png',
     },
     {
       titulo: 'Nosso Primeiro Dia dos Namorados',
       descricao:
         'Flores, sorrisos e uma playlist que tocava direto no coração. Um dia pra nunca esquecer.',
-      imagem: '/img1.png',
-      bg: '/img1.png',
+      imagem: '/linha-do-tempo/img1.png',
+      bg: '/linha-do-tempo/img1.png',
     },
     {
       titulo: '💑 1 Ano juntos 💑',
       descricao:
         'Completamos 1 ano juntos. Tantas memórias lindas, risadas, abraços e planos pro futuro 💖',
-      imagem: '/2.png',
-      bg: '/2.png',
+      imagem: '/linha-do-tempo/2.png',
+      bg: '/linha-do-tempo/2.png',
     },
     {
       
       titulo: ' 💖 1 Ano juntos 💖',
       descricao:
         ' Tão simples, tão nosso. Foi aí que entendi o que é sentir saudade mesmo estando perto.” ',
-      imagem: '/3.png',
-      bg: '/3.png',
+      imagem: '/linha-do-tempo/3.png',
+      bg: '/linha-do-tempo/3.png',
     },
     {
       
       titulo: '💑 1 Ano juntos 🥰 ',
       descricao:
         ' Nem tudo saiu como o planejado. Saiu melhor. ',
-      imagem: '/4.png',
-      bg: '/4.png',
+      imagem: '/linha-do-tempo/4.png',
+      bg: '/linha-do-tempo/4.png',
     },
     {
       
       titulo: ' 🥰 😘',
       descricao:
         '',
-      imagem: '/5.png',
-      bg: '/5.png',
+      imagem: '/linha-do-tempo/5.png',
+      bg: '/linha-do-tempo/5.png',
     },
     {
       
       titulo: '🤭 🥰 😘',
       descricao:
         '',
-      imagem: '/6.png',
-      bg: '/6.png',
+      imagem: '/linha-do-tempo/6.png',
+      bg: '/linha-do-tempo/6.png',
     },
     {
       
       titulo: '💖',
       descricao:
         '',
-      imagem: '/7.png',
-      bg: '/7.png',
+      imagem: '/linha-do-tempo/7.png',
+      bg: '/linha-do-tempo/7.png',
     },
     {
       titulo: '💘 💞💭',
       descricao:
         '',
-      imagem: '/8.png',
-      bg: '/8.png',
+      imagem: '/linha-do-tempo/8.png',
+      bg: '/linha-do-tempo/8.png',
     },
     {
       titulo: '🤭💘 💞',
       descricao:
         '',
-      imagem: '/9.png',
-      bg: '/9.png',
+      imagem: '/linha-do-tempo/9.png',
+      bg: '/linha-do-tempo/9.png',
     },
     {
       titulo: '💖💘 💞',
       descricao:
         '',
-      imagem: '/10.jpeg',
-      bg: '/10.jpeg',
+      imagem: '/linha-do-tempo/10.jpeg',
+      bg: '/linha-do-tempo/10.jpeg',
     },
     {
       titulo: '😍',
       descricao:
         '',
-      imagem: '/11.jpeg',
-      bg: '/11.jpeg',
+      imagem: '/linha-do-tempo/11.jpeg',
+      bg: '/linha-do-tempo/11.jpeg',
     },
     {
       titulo: '💖✨ 🤍',
       descricao:
         '',
-      imagem: '/12.png',
-      bg: '/12.png',
+      imagem: '/linha-do-tempo/12.png',
+      bg: '/linha-do-tempo/12.png',
     },
     {
       titulo: '🌹 🌺',
       descricao:
         '',
-      imagem: '/13.jpeg',
-      bg: '/13.jpeg',
+      imagem: '/linha-do-tempo/13.jpeg',
+      bg: '/linha-do-tempo/13.jpeg',
     },
     {
       titulo: '🔟💘 🔟💞',
       descricao:
         '',
-      imagem: '/14.jpeg',
-      bg: '/14.jpeg',
+      imagem: '/linha-do-tempo/14.jpeg',
+      bg: '/linha-do-tempo/14.jpeg',
     },
     {
       titulo: '3️⃣😘🔟✨ 3️⃣🤍',
       descricao:
         '',
-      imagem: '/15.jpeg',
-      bg: '/15.jpeg',
+      imagem: '/linha-do-tempo/15.jpeg',
+      bg: '/linha-do-tempo/15.jpeg',
     },
     {
       titulo: '🌟',
       descricao:
         '',
-      imagem: '/16.png',
-      bg: '/16.png',
+      imagem: '/linha-do-tempo/16.png',
+      bg: '/linha-do-tempo/16.png',
     },
     {
       titulo: '3️⃣💌',
       descricao:
         '',
-      imagem: '/17.jpeg',
-      bg: '/17.jpeg',
+      imagem: '/linha-do-tempo/17.jpeg',
+      bg: '/linha-do-tempo/17.jpeg',
     },
       {
       titulo: '  💖  💖    TE AMO   💖  💖  ',
-      imagem: '/18.jpeg',
-      bg: '/18.jpeg',
+      imagem: '/linha-do-tempo/18.jpeg',
+      bg: '/linha-do-tempo/18.jpeg',
     },
   ];
 

@@ -3,7 +3,7 @@ import LinhaDoTempo from './LinhaDoTempo';
 import { Volume2, VolumeX, PlayCircle } from 'lucide-react';
 
 export default function App() {
-  const [bgAtual, setBgAtual] = useState('/img.png');
+  const [bgAtual, setBgAtual] = useState('https://lucasbrancomuniz.github.io/linha-do-tempo/img.png');
   const [tocando, setTocando] = useState(false);
   const [volume, setVolume] = useState(0.3);
   const audioRef = useRef(null);
@@ -12,7 +12,7 @@ export default function App() {
 
   // Carrega o áudio
   useEffect(() => {
-    const audio = new Audio('/m2.mp3');
+    const audio = new Audio('/linha-do-tempo/m2.mp3');
     audio.loop = true;
     audio.volume = volume;
     audioRef.current = audio;
